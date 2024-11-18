@@ -24,7 +24,7 @@ Goal: Clean the dataset for missing values, duplicates, and incorrect data types
 
 ### Step 3: Exploratory Data Analysis (EDA)
 
-Questions to Answer:
+#### Questions to Answer:
 
 - Which product categories generated the highest sales in Q4?
 - Which products achieved the highest sales in Q4?
