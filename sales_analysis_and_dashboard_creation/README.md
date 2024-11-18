@@ -57,3 +57,5 @@ Goal: Clean the dataset for missing values, duplicates, and incorrect data types
 
 Export the CSV file for creating the interactive dashboard using Tableau.
 
+https://public.tableau.com/app/profile/pornpipat.k/viz/SalesAnalysisandDashboardCreation/Product
+
