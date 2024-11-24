@@ -3,7 +3,7 @@
 ## Objective
 Predict whether a loan application will be approved or not based on customer data.
 
-Dataset
+## Dataset
 https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data/data
 
 - person_age:	Age of the person
