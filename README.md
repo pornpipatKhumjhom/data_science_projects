@@ -1,2 +1,2 @@
-# Data Science projects
-All my data projects for Data Scientist and Data Analyst.
+# Data Analysis Projects
+My portfolio of data projects for a Data Analyst role.
